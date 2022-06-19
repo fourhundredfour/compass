@@ -4,5 +4,4 @@
 library compass;
 
 export 'src/compass_base.dart';
-
-// TODO: Export any libraries intended for clients of this package.
+export 'src/position.dart';
